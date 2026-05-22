@@ -30,7 +30,19 @@
 
 ### Решение 1
 
+![](img/Screenshot_set_list1.png)
 
+![](img/Screenshot_set_list2.png)
+
+![](img/Screenshot_set_list3.png)
+
+![](img/Screenshot_set_list4.png)
+
+![](img/Screenshot_result_list1.png)
+
+![](img/Screenshot_result_list2.png)
+
+![](img/Screenshot_result_list3.png)
 
 ---
 
@@ -42,6 +54,7 @@
 2. Перепишите сборку из задания 1 на declarative в виде кода.
 
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
+
 
 ---
 
