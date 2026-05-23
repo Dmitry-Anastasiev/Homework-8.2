@@ -55,6 +55,17 @@
 
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
+### Решение 2
+
+![](img/Screenshot_task2_set_list1.png)
+
+![](img/Screenshot_task2_set_list2.png)
+
+![](img/Screenshot_task2_result_list1.png)
+
+![](img/Screenshot_task2_result_list2.png)
+
+![](img/Screenshot_task2_result_list3.png)
 
 ---
 
@@ -68,6 +79,14 @@
 1. Загрузите файл в репозиторий с помощью jenkins.
 
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
+
+### Решение 3
+
+![](img/Screenshot_task3_set_list1.png)
+
+![](img/Screenshot_task3_result_list1.png)
+
+![](img/Screenshot_task3_result_list2.png)
 
 ---
 ## Дополнительные задания* (со звёздочкой)
